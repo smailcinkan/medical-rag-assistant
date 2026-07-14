@@ -1,9 +1,0 @@
-streamlit
-langchain
-langchain-community
-pymilvus
-sentence-transformers
-transformers
-torch
-beautifulsoup4
-openai
